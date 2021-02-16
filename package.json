@@ -1,0 +1,14 @@
+{
+  "name": "postgresql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.5.0"
+  },
+  "scripts":{
+  	"start": "echo No start script yet!! "
+  }
+}
