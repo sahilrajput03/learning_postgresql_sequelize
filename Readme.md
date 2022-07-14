@@ -51,6 +51,5 @@ https://dba.stackexchange.com/questions/41458/changing-postgresql-port-using-com
 
 ### Amazing deno with postgresqp and deno crash course:
 
-https://www.youtube.com/watch?v=KuaI6mphFNc
-
-https://www.youtube.com/watch?v=NHHhiqwcfRM&t=1958s
+- [Deno & PostgreSQL (Crash Course Part 2)](https://www.youtube.com/watch?v=KuaI6mphFNc)
+- [Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM&t=1958s)
